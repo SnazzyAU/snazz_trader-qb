@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'Snazzy'
-version '1.0.0'
+version '1.2.0'
 
 shared_script 'config.lua'
 server_script 'server/**.lua'
