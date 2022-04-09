@@ -11,5 +11,6 @@ client_script 'client/client.lua'
 
 escrow_ignore {
     'config.lua',
-    'client/client.lua'
+    'client/client.lua',
+    'server/discord.lua'
   }
